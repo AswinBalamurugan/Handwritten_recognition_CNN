@@ -1,5 +1,5 @@
 # Objective
-To apply CNN model for image classification.
+Perform handwritten recognitionn using image classification techniques by levaraging deep learning algorithms like CNN.
 
 # Dataset
 The dataset is available on kaggle - "A-Z Handwritten Alphabets in .csv format".
